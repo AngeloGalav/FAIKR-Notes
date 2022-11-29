@@ -1,0 +1,379 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "represent": {
+      "represent": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1668785575572
+        }
+      }
+    },
+    "knowledge": {
+      "knowledge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668425287473
+        }
+      }
+    },
+    "meta-reasoning": {
+      "meta-reasoning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668425650270
+        }
+      }
+    },
+    "superman": {
+      "superman": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668426862100
+        }
+      }
+    },
+    "introduce": {
+      "introduce": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668427028152
+        }
+      }
+    },
+    "operators": {
+      "operators": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1668784403698
+        }
+      }
+    },
+    "__Modal": {
+      "__Modal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668426971146
+        }
+      }
+    },
+    "family": {
+      "family": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668427031663
+        }
+      }
+    },
+    "fridge": {
+      "fridge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668427493737
+        }
+      }
+    },
+    "\\textbf{K}": {
+      "\\textbf{K}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668427667043
+        }
+      }
+    },
+    "binary": {
+      "binary": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668427727268
+        }
+      }
+    },
+    "DIFFERENT": {
+      "DIFFERENT": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668427775689
+        }
+      }
+    },
+    "warning": {
+      "warning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668427884479
+        }
+      }
+    },
+    "Deduction": {
+      "Deduction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668428449134
+        }
+      }
+    },
+    "\\varphi": {
+      "\\varphi": {
+        "currentFile": {
+          "count": 10,
+          "lastUpdated": 1668501140828
+        }
+      }
+    },
+    "temporal": {
+      "temporal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668500859206
+        }
+      }
+    },
+    "Temporal": {
+      "Temporal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668500914752
+        }
+      }
+    },
+    "logics": {
+      "logics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668500916159
+        }
+      }
+    },
+    "something": {
+      "something": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668785577582
+        }
+      }
+    },
+    "representation": {
+      "representation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668503568854
+        }
+      }
+    },
+    "accessibility": {
+      "accessibility": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668500968189
+        }
+      }
+    },
+    "future": {
+      "future": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668501019193
+        }
+      }
+    },
+    "reasoning": {
+      "reasoning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668501599068
+        }
+      }
+    },
+    "guaranteed": {
+      "guaranteed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668502605645
+        }
+      }
+    },
+    "Semantics": {
+      "Semantics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668502829120
+        }
+      }
+    },
+    "Semantic": {
+      "Semantic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503083830
+        }
+      }
+    },
+    "Networks": {
+      "Networks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503086367
+        }
+      }
+    },
+    "Knowledge": {
+      "Knowledge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503116162
+        }
+      }
+    },
+    "Characterize": {
+      "Characterize": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503500990
+        }
+      }
+    },
+    "semantic": {
+      "semantic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503514904
+        }
+      }
+    },
+    "Persons": {
+      "Persons": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503690328
+        }
+      }
+    },
+    "hasMother": {
+      "hasMother": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503704153
+        }
+      }
+    },
+    "Female": {
+      "Female": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668503718499
+        }
+      }
+    },
+    "properties": {
+      "properties": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668505227396
+        }
+      }
+    },
+    "categories": {
+      "categories": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668504801740
+        }
+      }
+    },
+    "category": {
+      "category": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668783227122
+        }
+      }
+    },
+    "predicate": {
+      "predicate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668783558744
+        }
+      }
+    },
+    "\\dots": {
+      "\\dots": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668784953918
+        }
+      }
+    },
+    "positive": {
+      "positive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668785564017
+        }
+      }
+    },
+    "Sentences": {
+      "Sentences": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668785883955
+        }
+      }
+    },
+    "satisfies": {
+      "satisfies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668785950619
+        }
+      }
+    }
+  }
+}
