@@ -50,8 +50,8 @@
     "represent": {
       "represent": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1668785575572
+          "count": 6,
+          "lastUpdated": 1670261818965
         }
       }
     },
@@ -202,8 +202,8 @@
     "representation": {
       "representation": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1668503568854
+          "count": 4,
+          "lastUpdated": 1669801091130
         }
       }
     },
@@ -372,6 +372,470 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1668785950619
+        }
+      }
+    },
+    "backtrack": {
+      "backtrack": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669797703559
+        }
+      }
+    },
+    "planning": {
+      "planning": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669799971333
+        }
+      }
+    },
+    "graphplan": {
+      "graphplan": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669799905165
+        }
+      }
+    },
+    "PRECONDITIONS": {
+      "PRECONDITIONS": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669798803344
+        }
+      }
+    },
+    "foreward": {
+      "foreward": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669798785904
+        }
+      }
+    },
+    "preconditions": {
+      "preconditions": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1669799231088
+        }
+      }
+    },
+    "structure": {
+      "structure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669798831115
+        }
+      }
+    },
+    "proposition": {
+      "proposition": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1669801040097
+        }
+      }
+    },
+    "Proposition": {
+      "Proposition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669798983774
+        }
+      }
+    },
+    "exclusive": {
+      "exclusive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669799279647
+        }
+      }
+    },
+    "Example": {
+      "Example": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669799561402
+        }
+      }
+    },
+    "available": {
+      "available": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669799615056
+        }
+      }
+    },
+    "Object": {
+      "Object": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669799642352
+        }
+      }
+    },
+    "incompatibility-": {
+      "incompatibility-": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669800637305
+        }
+      }
+    },
+    "conditions": {
+      "conditions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669800741569
+        }
+      }
+    },
+    "backward": {
+      "backward": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669800793450
+        }
+      }
+    },
+    "inconsistent": {
+      "inconsistent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669801053953
+        }
+      }
+    },
+    "mining__": {
+      "mining__": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669805180085
+        }
+      }
+    },
+    "algorithm": {
+      "algorithm": {
+        "currentFile": {
+          "count": 10,
+          "lastUpdated": 1670265148436
+        }
+      }
+    },
+    "Algorithm": {
+      "Algorithm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669805493588
+        }
+      }
+    },
+    "algorithms": {
+      "algorithms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669805593724
+        }
+      }
+    },
+    "Regression": {
+      "Regression": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669805601971
+        }
+      }
+    },
+    "Network": {
+      "Network": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669805607895
+        }
+      }
+    },
+    "Neighbors": {
+      "Neighbors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669805609997
+        }
+      }
+    },
+    "Learning": {
+      "Learning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669812033376
+        }
+      }
+    },
+    "Classification": {
+      "Classification": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669812053022
+        }
+      }
+    },
+    "SEARCH": {
+      "SEARCH": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670266028998
+        }
+      }
+    },
+    "problem": {
+      "problem": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670260505862
+        }
+      }
+    },
+    "failure": {
+      "failure": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670261634711
+        }
+      }
+    },
+    "strategy": {
+      "strategy": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1670264725457
+        }
+      }
+    },
+    "solution": {
+      "solution": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1670267211809
+        }
+      }
+    },
+    "Successor": {
+      "Successor": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670261961305
+        }
+      }
+    },
+    "TREE-SEARCH": {
+      "TREE-SEARCH": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670267216418
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670261859925
+        }
+      }
+    },
+    "nodes": {
+      "nodes": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670262122380
+        }
+      }
+    },
+    "successor": {
+      "successor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670261921910
+        }
+      }
+    },
+    "Empty": {
+      "Empty": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670261939771
+        }
+      }
+    },
+    "result": {
+      "result": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670262229523
+        }
+      }
+    },
+    "successors": {
+      "successors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670262318011
+        }
+      }
+    },
+    "example": {
+      "example": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670262781312
+        }
+      }
+    },
+    "strategies": {
+      "strategies": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1670267141097
+        }
+      }
+    },
+    "depth-first": {
+      "depth-first": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670263829090
+        }
+      }
+    },
+    "Breadth-first": {
+      "Breadth-first": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670263923089
+        }
+      }
+    },
+    "complexity": {
+      "complexity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670264286084
+        }
+      }
+    },
+    "completeness": {
+      "completeness": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670264334221
+        }
+      }
+    },
+    "background-color": {
+      "background-color": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670264431495
+        }
+      }
+    },
+    "Uniform-cost": {
+      "Uniform-cost": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670264713028
+        }
+      }
+    },
+    "essentially": {
+      "essentially": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670264975757
+        }
+      }
+    },
+    "Maximum": {
+      "Maximum": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670265046921
+        }
+      }
+    },
+    "branching": {
+      "branching": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670265053295
+        }
+      }
+    },
+    "consists": {
+      "consists": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670265201559
+        }
+      }
+    },
+    "uniform-cost": {
+      "uniform-cost": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670265224691
+        }
+      }
+    },
+    "arbitrarily": {
+      "arbitrarily": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670265450091
+        }
+      }
+    },
+    "deepening": {
+      "deepening": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670267320452
+        }
+      }
+    },
+    "Iterative": {
+      "Iterative": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670267318400
+        }
+      }
+    },
+    "factor": {
+      "factor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670267198044
+        }
+      }
+    },
+    "Properties": {
+      "Properties": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670267301967
+        }
+      }
+    },
+    "limit": {
+      "limit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670267393260
         }
       }
     }
