@@ -58,8 +58,8 @@
     "knowledge": {
       "knowledge": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668425287473
+          "count": 2,
+          "lastUpdated": 1670519150371
         }
       }
     },
@@ -522,16 +522,16 @@
     "algorithm": {
       "algorithm": {
         "currentFile": {
-          "count": 10,
-          "lastUpdated": 1670265148436
+          "count": 12,
+          "lastUpdated": 1670520421490
         }
       }
     },
     "Algorithm": {
       "Algorithm": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669805493588
+          "count": 2,
+          "lastUpdated": 1670520217786
         }
       }
     },
@@ -836,6 +836,166 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1670267393260
+        }
+      }
+    },
+    "Strategies": {
+      "Strategies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670518971020
+        }
+      }
+    },
+    "QueuingFn": {
+      "QueuingFn": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670520431879
+        }
+      }
+    },
+    "Best-First": {
+      "Best-First": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670520459833
+        }
+      }
+    },
+    "Search": {
+      "Search": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670520463052
+        }
+      }
+    },
+    "evaluation": {
+      "evaluation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670527428759
+        }
+      }
+    },
+    "picture": {
+      "picture": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670527417764
+        }
+      }
+    },
+    "pessimistic": {
+      "pessimistic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670527433207
+        }
+      }
+    },
+    "heuristic": {
+      "heuristic": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670529691034
+        }
+      }
+    },
+    "Breadth-First": {
+      "Breadth-First": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670528768044
+        }
+      }
+    },
+    "search": {
+      "search": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670528770904
+        }
+      }
+    },
+    "heuristics": {
+      "heuristics": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1670530350505
+        }
+      }
+    },
+    "Graphs": {
+      "Graphs": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670530950237
+        }
+      }
+    },
+    "Essentially": {
+      "Essentially": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670530816280
+        }
+      }
+    },
+    "Heuristics": {
+      "Heuristics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670531120607
+        }
+      }
+    },
+    "optimality": {
+      "optimality": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670714248999
+        }
+      }
+    },
+    "limegreen": {
+      "limegreen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670713675399
+        }
+      }
+    },
+    "consistent": {
+      "consistent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670713683738
+        }
+      }
+    },
+    "consistency": {
+      "consistency": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670714246139
+        }
+      }
+    },
+    "otherwise": {
+      "otherwise": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670713862193
+        }
+      }
+    },
+    "through": {
+      "through": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670714253614
         }
       }
     }

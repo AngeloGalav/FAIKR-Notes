@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -152,19 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "621637d0c4ee09cb",
+  "active": "c7889bc7c63c4a6b",
   "lastOpenFiles": [
     "Module1/2022-10-12 - Introduction to Search Strategies & Non-Informed Search Strategies.md",
+    "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
+    "Screenshot_20221130_103612.png",
+    "heuristic fail example.png",
     "Module3/22-09-28.md",
     "images/non-logical-symb.png",
     "images/struct_mach.png",
-    "Screenshot_20221130_103612.png",
     "problem_tree_search_example.png",
     "graphplan_ex1.png",
-    "graphplan_cart_example.png",
-    "Module1/2022-09-19 - Intro.md",
-    "images/logical-simb.png"
+    "graphplan_cart_example.png"
   ]
 }
