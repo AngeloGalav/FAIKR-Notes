@@ -166,7 +166,7 @@ The larger the neighborhood, the more likely a local maximum is a global maximum
 - __Plateau__: flat areas of the landscape in which ==neighboring states have the same value==. It is very difficult to chose in which direction to move (random choice?). 
 - __Ridges__ (trad. angolo, cresta): it is a higher area adjacent to those where we should go, but we can not go there directly. So we need to move in another direction to get there. Essentially, these are places that are not directly reachable.  
 
-# Meta Heuristic
+# Introduction to Meta Heuristics
 
 ==Local Search has many pitfalls, and some more effective solutions are required==. 
 The main pitfall is that, while it is very fast, it gets stuck on _local moves_. 
