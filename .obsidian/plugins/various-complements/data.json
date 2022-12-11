@@ -522,8 +522,8 @@
     "algorithm": {
       "algorithm": {
         "currentFile": {
-          "count": 12,
-          "lastUpdated": 1670520421490
+          "count": 14,
+          "lastUpdated": 1670761013920
         }
       }
     },
@@ -698,8 +698,8 @@
     "strategies": {
       "strategies": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1670267141097
+          "count": 5,
+          "lastUpdated": 1670760159781
         }
       }
     },
@@ -938,8 +938,8 @@
     "Essentially": {
       "Essentially": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670530816280
+          "count": 3,
+          "lastUpdated": 1670761919847
         }
       }
     },
@@ -996,6 +996,62 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1670714253614
+        }
+      }
+    },
+    "Neighborhood": {
+      "Neighborhood": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670717110404
+        }
+      }
+    },
+    "neighbourhood": {
+      "neighbourhood": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670759660457
+        }
+      }
+    },
+    "technique": {
+      "technique": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670760038712
+        }
+      }
+    },
+    "k-exchange": {
+      "k-exchange": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670760158435
+        }
+      }
+    },
+    "drawbacks": {
+      "drawbacks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670761010431
+        }
+      }
+    },
+    "obviously": {
+      "obviously": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670761403439
+        }
+      }
+    },
+    "directly": {
+      "directly": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670761930753
         }
       }
     }
