@@ -234,35 +234,110 @@ Ants tend to choose (more likely) ==the paths marked with higher pheromone conce
 The thing that makes this type of system work is the fact that ants chose the path using a probability and that they are __NON-DETERMINISTIC__. 
 
 ### ANT COLONY OPTIMIZATION
-The ACO uses a __probabilistic parametrized model__ (the __pheromone model__) used to model pheromone trails.
+The ACO uses a __probabilistic parametrized model__ (the __pheromone model__) used to model pheromone trails. This is also our "engineering part", in which we have to tune the parameters. 
 
 Ants build solution components in an incremental way (we're not using the tree representation since we're not doing an exploration).
 
 When using ACO, we need to provide a representation of the search space as a graph $G=(C,L)$, where $C$ are the nodes (which represent the states) and $L$ are the edges.  
 
 Not all paths can be feasible. 
-_Constraints_ can be represented to define what is a consistent solution (unlike previous search  strategies, in which they were handled not so well). 
+_Constraints_ can be represented to define what is a consistent solution (unlike previous search strategies, in which they were handled not so well). 
 
-[..]
+### How do these ants proceed?
+The connections, solution components or both have the following associated information:
+- Pheromone $\tau$ - which is left by all the ants. 
+- Heuristic value $\eta$
 
-### ACO System
-Ants build a solution following a path on the construction graph. 
+Both are taken into account when deciding which path to follow. 
 
+We could interpret these values in this way:
+- The __pheromone value__ abstracts natural pheromone trails and <span style="color:yellow"><i>codes the long term memory of the global search process.</i></span> 
+- The __heuristic value__ represents the <span style="color:yellow"><i>prior background knowledge on the problem</i></span>.
 
+Here's a basic schema of ACO:
+![[ACO_schema.png]]
+
+- The solution components in this case are represented by arcs. 
+- The pheromone model is improved by other agents during the process (by leaving an intense pheromone trail).
+
+### ACO Algorithm 
+A simple first example of ACO can be summarized with this series of steps:
+- Ants build a solution following a path on the construction graph. 
+- A transition rule is followed to choose the next node to visit. 
+- The heuristics and the pheromone are used. 
+- Pheromone values are updated on the basis of the QUALITY OF THE SOLUTION FOUND by the ants.
+
+Here's a very high-level algorithm template:
 ```
 InitializePheromoneValues() 
 
 while termination conditions not met do 
 	for all ants a ∈ A do 
-		sa ← ConstructSolution(τ ,η) 
+		s[a] ← ConstructSolution(τ ,η) 
 	end for 
 	
 	ApplyOnlineDelayedPheromoneUpdate() 
 end while
 ```
 
-### ANT-SYSTEM
-[..]
 
-Daemon actions: are centralized actions that cannot be executed by single ants. Essentially, they consist on local search procedures applied to each solution built. 
-\[ Local search is alwalys a way to improve the solution. \]
+How do we chose our path in the ants system though?
+Essentially, the past paths of each ant is memorized: starting from node $i$, we have to probabilistically chose the next [[2022-10-17 - INFORMED SEARCH STRATEGIES#Consistent Heuristics|consistent]] node to visit. To choose the next node, the probabilistic choice $p_{ij}$ depends on this formula:
+$$
+p_{ij} = 
+    \begin{cases}
+      \dfrac{[\tau_{ij}]^\alpha \ [\eta_{ij}]^\beta}{\sum_{k \ feasible}([\tau_{ij}]^\alpha \ [\eta_{ij}]^\beta)} & \text{if $j$ is consistent}\\ \\
+     0 & \text{otherwise}
+    \end{cases}\,
+$$
+Where:
+- $\tau_{ij}$ is the pheromone trail.  
+- The heuristics are valued as $\eta_{ij} = \dfrac{1}{d_{ij}}$, where $d_{ij}$ is the distance between $i$ and $j$. 
+- $α$ and $β$ weight the importance of the pheromone and the heuristics.
+- $j$ is the next possible node that we could visit. 
+- On the denominator, we have the __sum__ of the probability of each possible next feasible node. 
+- $\sum_{\text{k feasible}} p_{ik} = 1$
+
+N.B.: a node $j$ without an edge from $i$ is 100% incosistent. 
+
+### Updating the pheromone 
+The pheromone is updated through the following rule:
+ $$
+ \tau_{ij} = (1 - \rho) \tau_{ij} + \sum^m_{k=1} \Delta \tau^{k}_{ij}
+ $$
+
+Where $\rho$ is the evaporation coefficient, and:
+$$
+\Delta \tau_{ij} = 
+    \begin{cases}
+      \dfrac{1}{L_k} & \text{if ant $k$ used arc $(i,j)$}\\ \\
+     0 & \text{otherwise}
+    \end{cases}\,
+$$
+And $L_k$ is the length of the path followed by ant $k$. 
+
+### General algorithm ACO
+```js
+while termination conditions not met do 
+	ScheduleActivities {
+		AntBasedSolutionConstruction()
+		PheromoneUpdate()
+		DaemonActions() // optional
+	} end ScheduleActivities 
+end while
+```
+
+Where:
+- `AntBasedSolutionConstruction()`: ants move by applying a stochastic local decision policy that uses values of pheromone and heuristic on graph components. While moving, ==ants take track of the partial solutions (paths) that have been built==. 
+	- N.B: The pheromone is put on arcs!!.
+
+- `PheromoneUpdate()`: you can update the pheromone in two ways: 
+	- Ants update the pheromone <span style="color:yellow">during the solution construction</span> (online step-by-step pheromone update).
+	- Ants can <span style="color:yellow">update backward the pheromone</span> on components used on the basis of the quality of the overall solution (online delayed pheromone update). 
+	- _Evaporation_ is applied all time.
+
+- `DemonActions()`: ==are “centralized” actions that cannot be executed by the single ants==. 
+	- Local search procedure applied to each solution built.
+	- Collection of global information to decide whether to leave additional pheromone to guide search from a global perspective.
+	- Before updating the pheromone, you can run a local search (i.e. by exchanging the nodes) to try and improve the new solution found. 
+	- The pheromone will be then updated according to the new solution found.  
