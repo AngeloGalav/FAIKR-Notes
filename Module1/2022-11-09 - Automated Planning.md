@@ -1,9 +1,18 @@
-__Automated Planning__ is an important problem solving activity which consists in synthesizing a sequence of actions performed by an agent that leads from an initial state of the world to a given target state (goal).
+__Automated Planning__ is an important problem solving activity which consists in __synthesizing a sequence of actions performed by an agent that leads from an initial state of the world to a given target state__ (goal).
 
-Given: ➢ an initial state ➢ a set of actions you can perform ➢ a state to achieve (goal) Find: a plan: a partially or totally ordered set of actions needed to achieve the goal from the initial state Planning is: ➢ one application per se ➢ A common activity in many applications such as ➢ diagnosis: test plans and actions to repair (reconfigure) a system ➢ scheduling ➢ robotics
+Given: 
+- an initial state 
+- a set of actions you can perform 
+- a state to achieve (goal)
+ 
+Find: 
+- a plan: a partially or totally ordered <span style="color:limegreen">set of actions</span> needed to achieve the goal from the initial state 
 
+Planning is: 
+- one application per se 
+- A common activity in many applications.
 
-### Automated planner
+## Automated planner
 An automated planner is an intelligent agent that operates in a certain domain described by: 
 1. a representation of the initial state 
 2. a representation of a goal 
