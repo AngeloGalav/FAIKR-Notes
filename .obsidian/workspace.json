@@ -16,21 +16,8 @@
                 "file": "images/ACO_schema.png"
               }
             }
-          },
-          {
-            "id": "4ba43fc913a0f4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -96,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md",
+                "file": "images/ACO_schema.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md",
+                "file": "images/ACO_schema.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md"
+                "file": "images/ACO_schema.png"
               }
             }
           },
@@ -155,14 +143,14 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "4ba43fc913a0f4a1",
+  "active": "62f7e48f37423778",
   "lastOpenFiles": [
     "Module1/2022-11-09 - Automated Planning.md",
+    "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md",
     "Module1/2022-11-14.md",
     "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
     "Module1/2022-10-24 - Local Search 2 & Swarm intelligence.md",
     "Module1/2022-10-19 - LOCAL SEARCH.md",
-    "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md",
     "images/chess_example_not_important.png",
     "images/Screenshot_20221130_103612.png",
     "images/ACO_schema.png",
