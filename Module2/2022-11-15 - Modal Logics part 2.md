@@ -153,7 +153,7 @@ It is immediate to specify exceptions:
 Intuitively: a frame is a piece of knowledge that describes an object in terms of its properties:
 - it has a (unique) name 
 - each property is represented through couples <slot – filler> (ovvero, campo + valore)
-![[frame_example.png]]
+![[images/frame_example.png]]
 
 In terminological approaches (DL) an object is an instance of a category on the basis of sufficient conditions (logical approach). 
 

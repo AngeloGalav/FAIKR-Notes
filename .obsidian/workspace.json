@@ -11,9 +11,11 @@
             "id": "62f7e48f37423778",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/ACO_schema.png"
+                "file": "Module1/2022-11-14 - Automated Planning 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/ACO_schema.png",
+                "file": "Module1/2022-11-14 - Automated Planning 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/ACO_schema.png",
+                "file": "Module1/2022-11-14 - Automated Planning 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/ACO_schema.png"
+                "file": "Module1/2022-11-14 - Automated Planning 2.md"
               }
             }
           },
@@ -146,14 +148,14 @@
   "active": "62f7e48f37423778",
   "lastOpenFiles": [
     "Module1/2022-11-09 - Automated Planning.md",
+    "Module1/2022-11-14 - Automated Planning 2.md",
+    "images/ACO_schema.png",
     "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md",
-    "Module1/2022-11-14.md",
     "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
     "Module1/2022-10-24 - Local Search 2 & Swarm intelligence.md",
     "Module1/2022-10-19 - LOCAL SEARCH.md",
     "images/chess_example_not_important.png",
     "images/Screenshot_20221130_103612.png",
-    "images/ACO_schema.png",
     "Module1/2022-10-12 - Introduction to Search Strategies & Non-Informed Search Strategies.md"
   ]
 }
