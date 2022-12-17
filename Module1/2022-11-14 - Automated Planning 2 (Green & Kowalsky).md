@@ -83,7 +83,7 @@ Through substitution, we can satisfy the premise.  ![[substitution_to_proof.png]
 In short: ==to solve a problem we need a complete description of the state after each move==. 
 
 To describe an action, beside effect axioms we have to specify all fluents that would not change by the execution of an action (___frame axioms___). In our example we would need:
-![[frame_example.png]]
+![[frame_example 1.png]]
 
 If we do not explicitly state that what does not change during the execution of an action, then it remains unchanged in the next state, and <u>we need to store all the possible states</u>.
 
