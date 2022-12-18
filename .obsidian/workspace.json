@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module1/2022-11-21.md",
+                "file": "Module1/2022-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module1/2022-11-21.md",
+                "file": "Module1/2022-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module1/2022-11-21.md",
+                "file": "Module1/2022-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module1/2022-11-21.md"
+                "file": "Module1/2022-11-23.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "62f7e48f37423778",
   "lastOpenFiles": [
-    "README.md",
-    "20221102(only-text).pdf",
-    "Module1/2022-11-21.md",
-    "images/action_example_2.png",
-    "images/kowalsky_example_init.png",
-    "images/example_1_frameproblem.png",
-    "images/backward_algorithm.png",
-    "images/acton_example.png",
+    "Module1/2022-12-14.md",
+    "Module1/2022-12-12.md",
     "Module1/2022-11-23.md",
-    "Module1/2022-11-28.md"
+    "Module1/2022-11-21 - STRIPS for Planning.md",
+    "Module1/2022-11-14 - Automated Planning 2 (Green & Kowalsky).md",
+    "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
+    "Module1/2022-10-12 - Introduction to Search Strategies & Non-Informed Search Strategies.md",
+    "Module1/2022-09-19 - Intro.md",
+    "Module3/22-09-28.md",
+    "Module3/2022-09-28.md"
   ]
 }
