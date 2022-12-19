@@ -60,7 +60,7 @@ Planning can be seen as a search activity. There are many different views of pla
 
 - __Planning as search in the state space__ (__LINEAR PLANNING__): states are sets of propositions that are true in a given state of the world, operators are actions.
 
-- __Planning as search in the plan space__: states are partial plans and operators are plan refinement/completion moves (very similar to local search).
+- __Planning as search in the plan space__ (Non-linear planning): states are partial plans and operators are plan refinement/completion moves (very similar to local search).
 
 
 ## LINEAR PLANNING

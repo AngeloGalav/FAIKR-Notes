@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module1/2022-11-23.md",
+                "file": "Module1/2022-11-23 - Partial Order Planning (POP).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module1/2022-11-23.md",
+                "file": "Module1/2022-11-23 - Partial Order Planning (POP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module1/2022-11-23.md",
+                "file": "Module1/2022-11-23 - Partial Order Planning (POP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module1/2022-11-23.md"
+                "file": "Module1/2022-11-23 - Partial Order Planning (POP).md"
               }
             }
           },
@@ -146,15 +147,15 @@
   },
   "active": "62f7e48f37423778",
   "lastOpenFiles": [
-    "Module1/2022-12-14.md",
-    "Module1/2022-12-12.md",
-    "Module1/2022-11-23.md",
+    "images/non_linear_plan_example.png",
+    "Module1/2022-11-23 - Partial Order Planning (POP).md",
+    "Module1/2022-11-28.md",
+    "Module1/2022-11-30.md",
     "Module1/2022-11-21 - STRIPS for Planning.md",
-    "Module1/2022-11-14 - Automated Planning 2 (Green & Kowalsky).md",
-    "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
+    "images/strips_example_1.png",
+    "Module1/2022-11-09 - Automated Planning.md",
+    "Module1/2022-10-24 - Local Search 2 & Swarm intelligence.md",
     "Module1/2022-10-12 - Introduction to Search Strategies & Non-Informed Search Strategies.md",
-    "Module1/2022-09-19 - Intro.md",
-    "Module3/22-09-28.md",
-    "Module3/2022-09-28.md"
+    "Module1/2022-09-19 - Intro.md"
   ]
 }
