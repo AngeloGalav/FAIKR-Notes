@@ -66,8 +66,8 @@
     "operators": {
       "operators": {
         "currentFile": {
-          "count": 7,
-          "lastUpdated": 1670774802084
+          "count": 9,
+          "lastUpdated": 1671466630382
         }
       }
     },
@@ -306,8 +306,8 @@
     "algorithms": {
       "algorithms": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671366503998
+          "count": 3,
+          "lastUpdated": 1671467300279
         }
       }
     },
@@ -706,8 +706,8 @@
     "Essentially": {
       "Essentially": {
         "currentFile": {
-          "count": 6,
-          "lastUpdated": 1671408918528
+          "count": 7,
+          "lastUpdated": 1671467292963
         }
       }
     },
@@ -730,8 +730,8 @@
     "limegreen": {
       "limegreen": {
         "currentFile": {
-          "count": 10,
-          "lastUpdated": 1671396032647
+          "count": 12,
+          "lastUpdated": 1671464858210
         }
       }
     },
@@ -1324,6 +1324,38 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1671409242882
+        }
+      }
+    },
+    "Sussman": {
+      "Sussman": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671411814834
+        }
+      }
+    },
+    "Anomaly": {
+      "Anomaly": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671409532054
+        }
+      }
+    },
+    "Hierarchical": {
+      "Hierarchical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671464364456
+        }
+      }
+    },
+    "Macro": {
+      "Macro": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671466629094
         }
       }
     }
