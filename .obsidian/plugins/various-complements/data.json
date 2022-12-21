@@ -71,14 +71,6 @@
         }
       }
     },
-    "something": {
-      "something": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1668785577582
-        }
-      }
-    },
     "representation": {
       "representation": {
         "currentFile": {
@@ -92,54 +84,6 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1670774733642
-        }
-      }
-    },
-    "category": {
-      "category": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668783227122
-        }
-      }
-    },
-    "predicate": {
-      "predicate": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668783558744
-        }
-      }
-    },
-    "\\dots": {
-      "\\dots": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668784953918
-        }
-      }
-    },
-    "positive": {
-      "positive": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668785564017
-        }
-      }
-    },
-    "Sentences": {
-      "Sentences": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668785883955
-        }
-      }
-    },
-    "satisfies": {
-      "satisfies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668785950619
         }
       }
     },
@@ -690,8 +634,8 @@
     "heuristics": {
       "heuristics": {
         "currentFile": {
-          "count": 6,
-          "lastUpdated": 1670848065402
+          "count": 8,
+          "lastUpdated": 1671634544479
         }
       }
     },
@@ -730,24 +674,24 @@
     "limegreen": {
       "limegreen": {
         "currentFile": {
-          "count": 12,
-          "lastUpdated": 1671464858210
+          "count": 13,
+          "lastUpdated": 1671638012253
         }
       }
     },
     "consistent": {
       "consistent": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670713683738
+          "count": 2,
+          "lastUpdated": 1671638225265
         }
       }
     },
     "consistency": {
       "consistency": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1670714246139
+          "count": 5,
+          "lastUpdated": 1671639033942
         }
       }
     },
@@ -1306,8 +1250,8 @@
     "already": {
       "already": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671409032641
+          "count": 2,
+          "lastUpdated": 1671557764082
         }
       }
     },
@@ -1356,6 +1300,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1671466629094
+        }
+      }
+    },
+    "constraint": {
+      "constraint": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671539307438
+        }
+      }
+    },
+    "attempt": {
+      "attempt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671539510105
+        }
+      }
+    },
+    "constraints": {
+      "constraints": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1671552680706
+        }
+      }
+    },
+    "Satisfaction": {
+      "Satisfaction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671553060464
+        }
+      }
+    },
+    "PROPAGATION": {
+      "PROPAGATION": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671554617336
+        }
+      }
+    },
+    "ALGORITHMS": {
+      "ALGORITHMS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671555872581
+        }
+      }
+    },
+    "Checking___": {
+      "Checking___": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671555955265
+        }
+      }
+    },
+    "approaches": {
+      "approaches": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671559440224
+        }
+      }
+    },
+    "HEURISTICS": {
+      "HEURISTICS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671623714470
+        }
+      }
+    },
+    "CONSISTENCY": {
+      "CONSISTENCY": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671637737592
+        }
+      }
+    },
+    "arc-consistent": {
+      "arc-consistent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671638920926
         }
       }
     }

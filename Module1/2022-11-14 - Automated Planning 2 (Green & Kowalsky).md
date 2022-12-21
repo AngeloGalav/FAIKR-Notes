@@ -127,3 +127,5 @@ $poss(S), \ holds(on(b,g),S), \ holds(on(a,b),S)$
 This Goal is true for the plan:
 $do(move(a, d, b), do(move(b, e, g), s0))$
 
+Here's how "move" would be translated in Kowalsky notation:
+![[move_in_kowalsky.png]]
