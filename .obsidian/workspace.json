@@ -11,11 +11,9 @@
             "id": "62f7e48f37423778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Module1/2022-12-12 - CONSTRAINT SATISFACTION.md",
-                "mode": "source",
-                "source": false
+                "file": "images/arc_consistency_example.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module1/2022-12-12 - CONSTRAINT SATISFACTION.md",
+                "file": "images/arc_consistency_example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module1/2022-12-12 - CONSTRAINT SATISFACTION.md",
+                "file": "images/arc_consistency_example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module1/2022-12-12 - CONSTRAINT SATISFACTION.md"
+                "file": "images/arc_consistency_example.png"
               }
             }
           },
@@ -157,8 +154,8 @@
   },
   "active": "a93ae1316b18f8dd",
   "lastOpenFiles": [
-    "Module1/2022-09-19 - Intro.md",
     "Module1/2022-12-12 - CONSTRAINT SATISFACTION.md",
+    "Module1/2022-09-19 - Intro.md",
     "images/constraint_n_queens.png",
     "Module1/2022-11-28 - HIERARCHICAL PLANNING.md",
     "Module1/2022-11-30 - GRAPHPLAN.md",

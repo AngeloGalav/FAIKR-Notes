@@ -209,6 +209,7 @@ By adding a color to the available ones (color $g$), the network becomes path co
 Check the consistency of level $n = 3$ for this network that has exactly $n= 3$ variables is equivalent to verify that there is a solution AND all values that are left in the domain are part of a consistent solution.
 This happens because ==the level of consistency is equal to the number of variables==.
 
+## K-CONSISTENCY
 In principle, for a CSP of $k$ variables, if we want to apply consistency techniques and obtain only those values that are part of a feasible solution in the variable domains, we need to apply $k$-consistency.
 For each ($k-1$)-tuple of values consistent with the constraints imposed by the problem, there is a value for each $k$-th variable that satisfies the constraints among all $k$ variables.
 
