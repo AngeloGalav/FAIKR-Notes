@@ -11,9 +11,11 @@
             "id": "62f7e48f37423778",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/arc_consistency_example.png"
+                "file": "Module1/2022-11-30 - GRAPHPLAN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kowalsk",
+                "query": "kowalsky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/arc_consistency_example.png",
+                "file": "Module1/2022-11-30 - GRAPHPLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/arc_consistency_example.png",
+                "file": "Module1/2022-11-30 - GRAPHPLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/arc_consistency_example.png"
+                "file": "Module1/2022-11-30 - GRAPHPLAN.md"
               }
             }
           },
@@ -152,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a93ae1316b18f8dd",
+  "active": "62f7e48f37423778",
   "lastOpenFiles": [
     "Module1/2022-12-12 - CONSTRAINT SATISFACTION.md",
+    "Module1/2022-11-14 - Automated Planning 2 (Green & Kowalsky).md",
+    "Module1/2022-11-21 - STRIPS for Planning.md",
+    "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
+    "images/arc_consistency_example.png",
     "Module1/2022-09-19 - Intro.md",
     "images/constraint_n_queens.png",
     "Module1/2022-11-28 - HIERARCHICAL PLANNING.md",
     "Module1/2022-11-30 - GRAPHPLAN.md",
-    "Module1/2022-12-14.md",
-    "Module1/2022-11-14 - Automated Planning 2 (Green & Kowalsky).md",
-    "Module1/2022-11-21 - STRIPS for Planning.md",
-    "Module1/2022-10-17 - INFORMED SEARCH STRATEGIES.md",
-    "Module1/2022-11-07 - Swarm intelligence 2 & Games (MINIMAX).md"
+    "Module1/2022-12-14.md"
   ]
 }

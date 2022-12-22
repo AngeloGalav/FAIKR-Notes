@@ -18,7 +18,10 @@ Graphplan inherits from non-linear partial order planners the ability to create 
 
 ### Data representation in graphplan 
 
-Actions are represented as the ones in STRIPS – PRECONDITIONS – ADD LIST – DELETE LIST
+Actions are represented as the ones in STRIPS:
+- PRECONDITIONS 
+- ADD LIST 
+- DELETE LIST
 
 (The frame problem: for p ... no op that brings foreward anything that was true before: =={Let me look more into that}==) 
 

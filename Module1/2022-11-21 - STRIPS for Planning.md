@@ -32,7 +32,8 @@ Here is the actual STRIPS algorithm:
 - Initialize the stack with the goals to reach 
 - while _stack not empty_ do:
 	- if top(stack) = A and Aθ⊆CurrentState then: _(note that A can be a <span style="color:yellow">set of goals</span> or a single one)_
-		- pop(A) and execute substitution θ on the stack 
+		- pop(A) and execute substitution θ on the stack (on ALL occurrences)
+		- N.B.: In the CURRENT STATE: meaning that if it's in the state, you should omit it. 
 	- else if top(stack) = a then 
 		- Select a rule R with a ∈ Addlist(R)
 		- pop(a), push(R), push(Precond(R)); 
