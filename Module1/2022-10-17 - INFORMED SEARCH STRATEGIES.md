@@ -70,7 +70,7 @@ Algorithm:
 This algorithm will not always find the shortest path (it is not optimal normally): it is <span style="color:red">optimal only</span> when the ==_heuristic function is optimistic_==.  
 
 >[!Important Theorem (feasibility)]
->If $h'(n) \le h (n)$ for each node, then the A* algorithm always finds the optimal path to the goal
+>If $h(n) \le d(n)$ for each node, then the A* algorithm always finds the optimal path to the goal
 
 Let $h(n)$ be the <u>true distance</u> between the current node and the goal. A heuristic function $h'(n)$ is optimistic when $h'(n) \le h(n)$ is always true for each $n$. This heuristic function is said to be <span style="color:limegreen"><b>feasible</b></span>.
 The perfect heuristic $h'=h$ is always feasible. If $h'=0$ we always obtain a feasible heuristic function (in this case, the Breadth-First search).

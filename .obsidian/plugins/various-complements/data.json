@@ -87,14 +87,6 @@
         }
       }
     },
-    "backtrack": {
-      "backtrack": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669797703559
-        }
-      }
-    },
     "planning": {
       "planning": {
         "currentFile": {
@@ -103,131 +95,11 @@
         }
       }
     },
-    "graphplan": {
-      "graphplan": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1669799905165
-        }
-      }
-    },
-    "PRECONDITIONS": {
-      "PRECONDITIONS": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1669798803344
-        }
-      }
-    },
-    "foreward": {
-      "foreward": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669798785904
-        }
-      }
-    },
     "preconditions": {
       "preconditions": {
         "currentFile": {
           "count": 12,
           "lastUpdated": 1671396146097
-        }
-      }
-    },
-    "structure": {
-      "structure": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669798831115
-        }
-      }
-    },
-    "proposition": {
-      "proposition": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1669801040097
-        }
-      }
-    },
-    "Proposition": {
-      "Proposition": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669798983774
-        }
-      }
-    },
-    "exclusive": {
-      "exclusive": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669799279647
-        }
-      }
-    },
-    "Example": {
-      "Example": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669799561402
-        }
-      }
-    },
-    "available": {
-      "available": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669799615056
-        }
-      }
-    },
-    "Object": {
-      "Object": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1669799642352
-        }
-      }
-    },
-    "incompatibility-": {
-      "incompatibility-": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669800637305
-        }
-      }
-    },
-    "conditions": {
-      "conditions": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669800741569
-        }
-      }
-    },
-    "backward": {
-      "backward": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669800793450
-        }
-      }
-    },
-    "inconsistent": {
-      "inconsistent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669801053953
-        }
-      }
-    },
-    "mining__": {
-      "mining__": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1669805180085
         }
       }
     },
@@ -252,46 +124,6 @@
         "currentFile": {
           "count": 3,
           "lastUpdated": 1671467300279
-        }
-      }
-    },
-    "Regression": {
-      "Regression": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669805601971
-        }
-      }
-    },
-    "Network": {
-      "Network": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669805607895
-        }
-      }
-    },
-    "Neighbors": {
-      "Neighbors": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669805609997
-        }
-      }
-    },
-    "Learning": {
-      "Learning": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669812033376
-        }
-      }
-    },
-    "Classification": {
-      "Classification": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1669812053022
         }
       }
     },
@@ -1388,6 +1220,102 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1671638920926
+        }
+      }
+    },
+    "reasoning": {
+      "reasoning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672429029152
+        }
+      }
+    },
+    "Logical": {
+      "Logical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672429529265
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672429751193
+        }
+      }
+    },
+    "categories": {
+      "categories": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1672445956576
+        }
+      }
+    },
+    "hierchachilly": {
+      "hierchachilly": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672444611914
+        }
+      }
+    },
+    "ontologies": {
+      "ontologies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672444670317
+        }
+      }
+    },
+    "disjointed": {
+      "disjointed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672446516703
+        }
+      }
+    },
+    "BunchOf": {
+      "BunchOf": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672450343169
+        }
+      }
+    },
+    "weight": {
+      "weight": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672450494768
+        }
+      }
+    },
+    "boring": {
+      "boring": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672451221476
+        }
+      }
+    },
+    "butter": {
+      "butter": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672451513900
+        }
+      }
+    },
+    "applied•": {
+      "applied•": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672451549473
         }
       }
     }
