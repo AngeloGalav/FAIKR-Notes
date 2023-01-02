@@ -125,7 +125,7 @@ Reasoning about inheritance and properties is easy:
 
 ### Semantic Networks – multiple inheritance and properties 
 Things are nasty when allowing multiple inheritance… the "Nixon diamond" problem:
-![[nixon_diamond.png]]
+![[images/nixon_diamond.png]]
 Is Nikon a pacifist? a non-pacifist? It can be both (incoherence)… It is not acceptable in logic.
 
 OOP Languages suffer the problem, when dealing with overridden methods: 

@@ -1406,6 +1406,38 @@
           "lastUpdated": 1672687324256
         }
       }
+    },
+    "semantic": {
+      "semantic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672688829078
+        }
+      }
+    },
+    "networks": {
+      "networks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672688831645
+        }
+      }
+    },
+    "per-categories": {
+      "per-categories": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672689631835
+        }
+      }
+    },
+    "meaning": {
+      "meaning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672689690257
+        }
+      }
     }
   }
 }
