@@ -66,8 +66,8 @@
     "operators": {
       "operators": {
         "currentFile": {
-          "count": 9,
-          "lastUpdated": 1671466630382
+          "count": 10,
+          "lastUpdated": 1672675117583
         }
       }
     },
@@ -234,8 +234,8 @@
     "example": {
       "example": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670262781312
+          "count": 2,
+          "lastUpdated": 1672687905027
         }
       }
     },
@@ -898,8 +898,8 @@
     "calculus": {
       "calculus": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671204749508
+          "count": 4,
+          "lastUpdated": 1672662068744
         }
       }
     },
@@ -1316,6 +1316,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1672451549473
+        }
+      }
+    },
+    "states": {
+      "states": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672454067851
+        }
+      }
+    },
+    "situation": {
+      "situation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672660393661
+        }
+      }
+    },
+    "Successor_state_axioms": {
+      "Successor_state_axioms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672660408031
+        }
+      }
+    },
+    "problems": {
+      "problems": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672660675942
+        }
+      }
+    },
+    "action…": {
+      "action…": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672660855387
+        }
+      }
+    },
+    "Calculus": {
+      "Calculus": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672660885559
+        }
+      }
+    },
+    "weaknesses": {
+      "weaknesses": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672662179594
+        }
+      }
+    },
+    "Propositional": {
+      "Propositional": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672673590517
+        }
+      }
+    },
+    "attitudes": {
+      "attitudes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672673592714
+        }
+      }
+    },
+    "Logics": {
+      "Logics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672674052090
+        }
+      }
+    },
+    "logics": {
+      "logics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672687324256
         }
       }
     }
