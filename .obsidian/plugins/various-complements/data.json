@@ -154,8 +154,8 @@
     "Properties": {
       "Properties": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1672744874349
+          "count": 6,
+          "lastUpdated": 1673370477916
         }
       }
     },
@@ -183,14 +183,6 @@
         }
       }
     },
-    "optimality": {
-      "optimality": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1670714248999
-        }
-      }
-    },
     "limegreen": {
       "limegreen": {
         "currentFile": {
@@ -212,30 +204,6 @@
         "currentFile": {
           "count": 5,
           "lastUpdated": 1671639033942
-        }
-      }
-    },
-    "otherwise": {
-      "otherwise": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670713862193
-        }
-      }
-    },
-    "through": {
-      "through": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670714253614
-        }
-      }
-    },
-    "Neighborhood": {
-      "Neighborhood": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670717110404
         }
       }
     },
@@ -1154,8 +1122,8 @@
     "properties": {
       "properties": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672744885571
+          "count": 3,
+          "lastUpdated": 1673369874797
         }
       }
     },
@@ -1340,6 +1308,102 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1673311424247
+        }
+      }
+    },
+    "semantics": {
+      "semantics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673366962072
+        }
+      }
+    },
+    "syntactic": {
+      "syntactic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673367085714
+        }
+      }
+    },
+    "Workflow": {
+      "Workflow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673367619320
+        }
+      }
+    },
+    "Operations": {
+      "Operations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673368669858
+        }
+      }
+    },
+    "Soundness": {
+      "Soundness": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673370507532
+        }
+      }
+    },
+    "workflow": {
+      "workflow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673370665019
+        }
+      }
+    },
+    "discovery": {
+      "discovery": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673376352848
+        }
+      }
+    },
+    "citizens": {
+      "citizens": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673376641490
+        }
+      }
+    },
+    "supported": {
+      "supported": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673377030509
+        }
+      }
+    },
+    "Discovery": {
+      "Discovery": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673377252963
+        }
+      }
+    },
+    "PetriNet": {
+      "PetriNet": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673379681507
+        }
+      }
+    },
+    "replay": {
+      "replay": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673379973724
         }
       }
     }

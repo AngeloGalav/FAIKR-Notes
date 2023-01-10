@@ -11,40 +11,35 @@
             "id": "6f4a3450455cd8bf",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b71c535df0a71c8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "file": "Module2/Digests/3. Reasoning over time.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b6c970e930956494",
+            "id": "093ce9ccc4d94888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/9. Business Process Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72dc11766d9eb441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prolog.md",
+                "file": "Module2/Digests/11. Languages properties for BPM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -111,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/9. Business Process Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/9. Business Process Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Module2/Digests/9. Business Process Management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6c970e930956494",
+  "active": "a93ae1316b18f8dd",
   "lastOpenFiles": [
-    "Prolog.md",
-    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
     "Module2/2022-11-18.md",
-    "Module2/Digests/7. Protege.md",
-    "Module2/Digests/9. Business Process Management.md",
-    "Module2/Digests/10-11. BPM Languages.md",
-    "images/Same_as_example.png",
-    "images/open_world_assumption.png",
-    "Module2/Digests/6. Description Logics.md",
-    "images/reduction_to_subsumption.png"
+    "Module2/2022-11-21.md",
+    "Module2/2022-12-16.md",
+    "Module2/2022-12-13.md",
+    "Module2/2022-12-12.md",
+    "Module2/2022-11-22.md",
+    "Module2/2022-11-28.md",
+    "images/soundness_definition.png",
+    "images/alignment_example.png",
+    "Module2/Digests/12. Business Process Mining.md"
   ]
 }
