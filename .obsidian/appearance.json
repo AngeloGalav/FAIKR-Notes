@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "realistic-highlight",
+    "checkbox",
+    "test"
+  ]
 }

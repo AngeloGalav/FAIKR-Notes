@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72dc11766d9eb441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prolog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "file": "Module2/Digests/9. Business Process Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "file": "Module2/Digests/9. Business Process Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md"
+                "file": "Module2/Digests/9. Business Process Management.md"
               }
             }
           },
@@ -167,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f4a3450455cd8bf",
+  "active": "b6c970e930956494",
   "lastOpenFiles": [
+    "Prolog.md",
+    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
     "Module2/2022-11-18.md",
     "Module2/Digests/7. Protege.md",
-    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
     "Module2/Digests/9. Business Process Management.md",
     "Module2/Digests/10-11. BPM Languages.md",
     "images/Same_as_example.png",
     "images/open_world_assumption.png",
     "Module2/Digests/6. Description Logics.md",
-    "images/reduction_to_subsumption.png",
-    "images/all_example.png"
+    "images/reduction_to_subsumption.png"
   ]
 }
