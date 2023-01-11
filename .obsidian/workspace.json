@@ -11,17 +11,21 @@
             "id": "6f4a3450455cd8bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Module2/OLD/2022-11-07 - Intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "3b71c535df0a71c8",
+            "id": "13c0a3ef5e9d4f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/3. Reasoning over time.md",
+                "file": "Module2/Digests/14. Prolog 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Module2/Digests/14. Prolog 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Module2/Digests/14. Prolog 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Module2/Digests/14. Prolog 2.md"
+              }
             }
           },
           {
@@ -170,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a93ae1316b18f8dd",
+  "active": "13c0a3ef5e9d4f50",
   "lastOpenFiles": [
-    "Module2/2022-11-18.md",
-    "Module2/2022-11-21.md",
-    "Module2/2022-12-16.md",
-    "Module2/2022-12-13.md",
-    "Module2/2022-12-12.md",
-    "Module2/2022-11-22.md",
-    "Module2/2022-11-28.md",
-    "images/soundness_definition.png",
-    "images/alignment_example.png",
-    "Module2/Digests/12. Business Process Mining.md"
+    "Module2/OLD/2022-11-07 - Intro.md",
+    "Module2/OLD.md",
+    "Module2/Digests/13. Prolog.md",
+    "Screenshot_20230111_183313.png",
+    "README.md",
+    "images/example_declarative_prolog.png",
+    "images/fibonacci_prolog.png",
+    "Module2/Digests/12. Business Process Mining.md",
+    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+    "Module2/Digests/5. Semantic Networks.md"
   ]
 }

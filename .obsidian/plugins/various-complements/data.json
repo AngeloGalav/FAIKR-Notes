@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "represent": {
-      "represent": {
-        "currentFile": {
-          "count": 7,
-          "lastUpdated": 1670847020152
-        }
-      }
-    },
     "operators": {
       "operators": {
         "currentFile": {
@@ -68,14 +60,6 @@
         "currentFile": {
           "count": 7,
           "lastUpdated": 1671036249486
-        }
-      }
-    },
-    "guaranteed": {
-      "guaranteed": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1670774733642
         }
       }
     },
@@ -124,14 +108,6 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1672687905027
-        }
-      }
-    },
-    "strategies": {
-      "strategies": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1670777567696
         }
       }
     },
@@ -207,142 +183,6 @@
         }
       }
     },
-    "neighbourhood": {
-      "neighbourhood": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670759660457
-        }
-      }
-    },
-    "technique": {
-      "technique": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670760038712
-        }
-      }
-    },
-    "k-exchange": {
-      "k-exchange": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670760158435
-        }
-      }
-    },
-    "drawbacks": {
-      "drawbacks": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670761010431
-        }
-      }
-    },
-    "obviously": {
-      "obviously": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670761403439
-        }
-      }
-    },
-    "directly": {
-      "directly": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670761930753
-        }
-      }
-    },
-    "neighborhood": {
-      "neighborhood": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670769436715
-        }
-      }
-    },
-    "termination": {
-      "termination": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670769445847
-        }
-      }
-    },
-    "neighbors": {
-      "neighbors": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670769575664
-        }
-      }
-    },
-    "probability": {
-      "probability": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1670848532861
-        }
-      }
-    },
-    "temperature": {
-      "temperature": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1670770296836
-        }
-      }
-    },
-    "variability": {
-      "variability": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670773969024
-        }
-      }
-    },
-    "genotypes": {
-      "genotypes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670773973780
-        }
-      }
-    },
-    "because": {
-      "because": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670774812410
-        }
-      }
-    },
-    "system": {
-      "system": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670776525268
-        }
-      }
-    },
-    "capacities": {
-      "capacities": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670776538905
-        }
-      }
-    },
-    "parameter": {
-      "parameter": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670846429703
-        }
-      }
-    },
     "Pheromone": {
       "Pheromone": {
         "currentFile": {
@@ -356,30 +196,6 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1670861102090
-        }
-      }
-    },
-    "trail": {
-      "trail": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670848059289
-        }
-      }
-    },
-    "\\eta_{ij}": {
-      "\\eta_{ij}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670848079669
-        }
-      }
-    },
-    "probabilistically": {
-      "probabilistically": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670848345385
         }
       }
     },
@@ -1404,6 +1220,78 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1673379973724
+        }
+      }
+    },
+    "Prolog": {
+      "Prolog": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1673458620461
+        }
+      }
+    },
+    "Predicate": {
+      "Predicate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673455209571
+        }
+      }
+    },
+    "Expression": {
+      "Expression": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673456977274
+        }
+      }
+    },
+    "mathematical": {
+      "mathematical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673457062086
+        }
+      }
+    },
+    "expression": {
+      "expression": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673457345132
+        }
+      }
+    },
+    "WARNING": {
+      "WARNING": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673459447831
+        }
+      }
+    },
+    "Examples": {
+      "Examples": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673459642375
+        }
+      }
+    },
+    "LISTS": {
+      "LISTS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673459830263
+        }
+      }
+    },
+    "Lists": {
+      "Lists": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673459836565
         }
       }
     }
