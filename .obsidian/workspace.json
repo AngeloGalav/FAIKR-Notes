@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
+                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/Untitled.md",
+                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
+                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
+                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md"
+                "file": "Module2/Digests/16. Probabilistic Logic Programming.md"
               }
             }
           },
@@ -179,12 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "093ce9ccc4d94888",
+  "active": "a93ae1316b18f8dd",
   "lastOpenFiles": [
-    "Module2/Digests/14. Prolog Metapredicates.md",
     "Module2/Digests/15. Prolog Meta-interpreters.md",
+    "Module2/Digests/14. Prolog Metapredicates.md",
     "Module2/Digests/13. Prolog.md",
-    "Module2/Digests/Untitled.md",
+    "Module2/Digests/16. Probabilistic Logic Programming.md",
     "Module2/Digests/12. Business Process Mining.md",
     "Module2/Digests/11i. Languages properties for BPM.md",
     "images/sldnf_fails_example.png",
