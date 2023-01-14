@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/18. CEP.md",
+                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0b35930595d784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2/Digests/7. Protege.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad657b43e4d9473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2/Digests/10i. Procedural BPM Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73d1a2a1f4bd0bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2/Digests/11i. Languages properties for BPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"backward\"",
+                "query": "findall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -98,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/18. CEP.md",
+                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/18. CEP.md",
+                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/18. CEP.md"
+                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md"
               }
             }
           },
@@ -169,15 +204,15 @@
   },
   "active": "093ce9ccc4d94888",
   "lastOpenFiles": [
-    "Module2/Digests/17. Forward reasoning.md",
-    "Module2/Digests/18. CEP.md",
-    "Module2/Digests/15. Prolog Meta-interpreters.md",
-    "Module2/Digests/16. Probabilistic Logic Programming.md",
-    "images/Intro.md",
-    "Module2/Digests/14. Prolog Metapredicates.md",
-    "Module2/Digests/1. FOL - First Order Logic.md",
-    "README.md",
-    "Module1/2022-09-19 - Intro.md",
-    "Module1/2022-10-19 - LOCAL SEARCH.md"
+    "Module2/Digests/11i. Languages properties for BPM.md",
+    "Module2/Digests/10i. Procedural BPM Languages.md",
+    "Module2/Digests/9. Business Process Management.md",
+    "Module2/Digests/7. Protege.md",
+    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+    "Module2/Digests/5. Semantic Networks.md",
+    "Module2/Digests/6. Description Logics.md",
+    "Module2/Digests/4. Knowledge and Beliefs.md",
+    "Module2/Digests/3. Reasoning over time.md",
+    "Module2/Digests/2. Ontologies.md"
   ]
 }
