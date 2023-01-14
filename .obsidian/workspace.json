@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/11i. Languages properties for BPM.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/11i. Languages properties for BPM.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/11i. Languages properties for BPM.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/11i. Languages properties for BPM.md"
+                "file": "README.md"
               }
             }
           },
@@ -214,17 +213,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a93ae1316b18f8dd",
+  "active": "47c9ec34274e7b37",
   "lastOpenFiles": [
-    "Module2/Digests/12. Business Process Mining.md",
-    "Module2/Digests/11i. Languages properties for BPM.md",
-    "images/syntax_yawl.png",
-    "images/bpmn_problem_1.png",
+    "Module2/Digests/14. Prolog Metapredicates.md",
+    "Module2/Digests/18. CEP.md",
+    "Module2/Digests/17. Forward reasoning.md",
     "Module2/Digests/10. Procedural BPM Languages.md",
-    "images/rdf_example.png",
-    "images/sparql_example.png",
+    "Module2/Digests/11i. Languages properties for BPM.md",
     "Module2/Digests/9. Business Process Management.md",
+    "Module2/Digests/7. Protege.md",
     "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
-    "Module2/Digests/7. Protege.md"
+    "Module2/Digests/6. Description Logics.md",
+    "Module2/Digests/5. Semantic Networks.md"
   ]
 }
