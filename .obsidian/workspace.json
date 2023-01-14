@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
+                "file": "Module2/Digests/18. CEP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df1834fa4d210250",
+            "id": "bd6c76fad4930ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/17. Forward reasoning.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "T-box",
+                "query": "\"backward\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/17. Forward reasoning.md",
+                "file": "Module2/Digests/18. CEP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/17. Forward reasoning.md",
+                "file": "Module2/Digests/18. CEP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/17. Forward reasoning.md"
+                "file": "Module2/Digests/18. CEP.md"
               }
             }
           },
@@ -168,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df1834fa4d210250",
+  "active": "093ce9ccc4d94888",
   "lastOpenFiles": [
-    "Module2/Digests/16. Probabilistic Logic Programming.md",
+    "Module2/Digests/17. Forward reasoning.md",
+    "Module2/Digests/18. CEP.md",
     "Module2/Digests/15. Prolog Meta-interpreters.md",
+    "Module2/Digests/16. Probabilistic Logic Programming.md",
+    "images/Intro.md",
     "Module2/Digests/14. Prolog Metapredicates.md",
-    "Module2/Digests/13. Prolog.md",
-    "Module2/Digests/12. Business Process Mining.md",
-    "Module2/Digests/11i. Languages properties for BPM.md",
-    "images/sldnf_fails_example.png",
-    "images/negation_example.png",
-    "Module2/Digests/8i. Semantic Web And Knowledge Graph.md",
-    "Module2/Digests/9. Business Process Management.md"
+    "Module2/Digests/1. FOL - First Order Logic.md",
+    "README.md",
+    "Module1/2022-09-19 - Intro.md",
+    "Module1/2022-10-19 - LOCAL SEARCH.md"
   ]
 }
