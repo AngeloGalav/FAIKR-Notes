@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "9f218e31f6efcd8f",
+            "id": "df1834fa4d210250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3312a341bebccc6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
+                "file": "Module2/Digests/17. Forward reasoning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
+                "file": "Module2/Digests/17. Forward reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/16. Probabilistic Logic Programming.md",
+                "file": "Module2/Digests/17. Forward reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/16. Probabilistic Logic Programming.md"
+                "file": "Module2/Digests/17. Forward reasoning.md"
               }
             }
           },
@@ -178,12 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a93ae1316b18f8dd",
+  "active": "df1834fa4d210250",
   "lastOpenFiles": [
+    "Module2/Digests/16. Probabilistic Logic Programming.md",
     "Module2/Digests/15. Prolog Meta-interpreters.md",
     "Module2/Digests/14. Prolog Metapredicates.md",
     "Module2/Digests/13. Prolog.md",
-    "Module2/Digests/16. Probabilistic Logic Programming.md",
     "Module2/Digests/12. Business Process Mining.md",
     "Module2/Digests/11i. Languages properties for BPM.md",
     "images/sldnf_fails_example.png",

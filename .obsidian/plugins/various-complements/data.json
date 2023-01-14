@@ -74,8 +74,8 @@
     "algorithm": {
       "algorithm": {
         "currentFile": {
-          "count": 26,
-          "lastUpdated": 1671362372530
+          "count": 27,
+          "lastUpdated": 1673695973750
         }
       }
     },
@@ -402,8 +402,8 @@
     "constraint": {
       "constraint": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671539307438
+          "count": 2,
+          "lastUpdated": 1673696752018
         }
       }
     },
@@ -490,8 +490,8 @@
     "reasoning": {
       "reasoning": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672429029152
+          "count": 2,
+          "lastUpdated": 1673695964968
         }
       }
     },
@@ -1220,6 +1220,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1673662586038
+        }
+      }
+    },
+    "rules": {
+      "rules": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673666564932
+        }
+      }
+    },
+    "framework": {
+      "framework": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673696025444
+        }
+      }
+    },
+    "complexity": {
+      "complexity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673696094499
+        }
+      }
+    },
+    "structure": {
+      "structure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673696177067
+        }
+      }
+    },
+    "facts": {
+      "facts": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673696264993
+        }
+      }
+    },
+    "email”": {
+      "email”": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673696311954
+        }
+      }
+    },
+    "triggered": {
+      "triggered": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673696609339
+        }
+      }
+    },
+    "prolog": {
+      "prolog": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673697619649
+        }
+      }
+    },
+    "exists": {
+      "exists": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673697564950
+        }
+      }
+    },
+    "Facts": {
+      "Facts": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673698668447
+        }
+      }
+    },
+    "Salience": {
+      "Salience": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673700259000
         }
       }
     }
