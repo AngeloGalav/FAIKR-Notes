@@ -11,9 +11,19 @@
             "id": "093ce9ccc4d94888",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/sparql_example.png"
+              }
+            }
+          },
+          {
+            "id": "47c9ec34274e7b37",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "file": "Module2/Digests/11i. Languages properties for BPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/10i. Procedural BPM Languages.md",
+                "file": "Module2/Digests/10. Procedural BPM Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "file": "Module2/Digests/11i. Languages properties for BPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+                "file": "Module2/Digests/11i. Languages properties for BPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/8. Semantic Web And Knowledge Graph.md"
+                "file": "Module2/Digests/11i. Languages properties for BPM.md"
               }
             }
           },
@@ -202,17 +214,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "093ce9ccc4d94888",
+  "active": "a93ae1316b18f8dd",
   "lastOpenFiles": [
+    "Module2/Digests/12. Business Process Mining.md",
     "Module2/Digests/11i. Languages properties for BPM.md",
-    "Module2/Digests/10i. Procedural BPM Languages.md",
+    "images/syntax_yawl.png",
+    "images/bpmn_problem_1.png",
+    "Module2/Digests/10. Procedural BPM Languages.md",
+    "images/rdf_example.png",
+    "images/sparql_example.png",
     "Module2/Digests/9. Business Process Management.md",
-    "Module2/Digests/7. Protege.md",
     "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
-    "Module2/Digests/5. Semantic Networks.md",
-    "Module2/Digests/6. Description Logics.md",
-    "Module2/Digests/4. Knowledge and Beliefs.md",
-    "Module2/Digests/3. Reasoning over time.md",
-    "Module2/Digests/2. Ontologies.md"
+    "Module2/Digests/7. Protege.md"
   ]
 }
