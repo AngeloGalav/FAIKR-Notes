@@ -1,4 +1,4 @@
-# FAIKR
+# FAIKR - Fundamentals of AI and Knowledge Representation
 
 -----
 ## Module 1

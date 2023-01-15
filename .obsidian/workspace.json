@@ -8,58 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "093ce9ccc4d94888",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/sparql_example.png"
-              }
-            }
-          },
-          {
             "id": "47c9ec34274e7b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Module2/OLD/2022-11-15 - Modal Logics part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf0b35930595d784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2/Digests/7. Protege.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ad657b43e4d9473",
+            "id": "8381ec0ebe41650a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Module2/Digests/10. Procedural BPM Languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d1a2a1f4bd0bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module2/Digests/11i. Languages properties for BPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "findall",
+                "query": "\"Conformance checking\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Module2/Digests/10. Procedural BPM Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Module2/Digests/10. Procedural BPM Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Module2/Digests/10. Procedural BPM Languages.md"
               }
             }
           },
@@ -213,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47c9ec34274e7b37",
+  "active": "a93ae1316b18f8dd",
   "lastOpenFiles": [
+    "Module2/Digests/11. Languages properties for BPM.md",
     "Module2/Digests/14. Prolog Metapredicates.md",
+    "Module2/Digests/15. Prolog Meta-interpreters.md",
+    "Module2/Digests/16. Probabilistic Logic Programming.md",
     "Module2/Digests/18. CEP.md",
     "Module2/Digests/17. Forward reasoning.md",
-    "Module2/Digests/10. Procedural BPM Languages.md",
-    "Module2/Digests/11i. Languages properties for BPM.md",
-    "Module2/Digests/9. Business Process Management.md",
-    "Module2/Digests/7. Protege.md",
-    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
-    "Module2/Digests/6. Description Logics.md",
-    "Module2/Digests/5. Semantic Networks.md"
+    "Module2/Digests/4. Knowledge and Beliefs.md",
+    "Module2/OLD/2022-11-15 - Modal Logics part 2.md",
+    "Module2/OLD/2022-11-14 - ❌90% -  Events 2 & Modal Logics.md",
+    "Module2/OLD/2022-11-11 - ❌.md"
   ]
 }
