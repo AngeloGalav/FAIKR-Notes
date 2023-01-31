@@ -55,43 +55,11 @@
         }
       }
     },
-    "planning": {
-      "planning": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1671407830260
-        }
-      }
-    },
-    "preconditions": {
-      "preconditions": {
-        "currentFile": {
-          "count": 12,
-          "lastUpdated": 1671396146097
-        }
-      }
-    },
     "algorithm": {
       "algorithm": {
         "currentFile": {
           "count": 27,
           "lastUpdated": 1673695973750
-        }
-      }
-    },
-    "Algorithm": {
-      "Algorithm": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1671323495492
-        }
-      }
-    },
-    "algorithms": {
-      "algorithms": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1671467300279
         }
       }
     },
@@ -111,51 +79,11 @@
         }
       }
     },
-    "heuristics": {
-      "heuristics": {
-        "currentFile": {
-          "count": 8,
-          "lastUpdated": 1671634544479
-        }
-      }
-    },
     "Essentially": {
       "Essentially": {
         "currentFile": {
           "count": 8,
           "lastUpdated": 1673739817713
-        }
-      }
-    },
-    "limegreen": {
-      "limegreen": {
-        "currentFile": {
-          "count": 13,
-          "lastUpdated": 1671638012253
-        }
-      }
-    },
-    "consistent": {
-      "consistent": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671638225265
-        }
-      }
-    },
-    "consistency": {
-      "consistency": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1671639033942
-        }
-      }
-    },
-    "Planning": {
-      "Planning": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671044401184
         }
       }
     },
@@ -167,238 +95,6 @@
         }
       }
     },
-    "putOnTable": {
-      "putOnTable": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671205192797
-        }
-      }
-    },
-    "Problem": {
-      "Problem": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671205318664
-        }
-      }
-    },
-    "formulations": {
-      "formulations": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671318118798
-        }
-      }
-    },
-    "Kowalsky": {
-      "Kowalsky": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671320165755
-        }
-      }
-    },
-    "\\implies": {
-      "\\implies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671319181920
-        }
-      }
-    },
-    "__Kowalsky": {
-      "__Kowalsky": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671319943833
-        }
-      }
-    },
-    "STRIPS": {
-      "STRIPS": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671324351408
-        }
-      }
-    },
-    "before": {
-      "before": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671324401041
-        }
-      }
-    },
-    "subgoal": {
-      "subgoal": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671362539687
-        }
-      }
-    },
-    "interact": {
-      "interact": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671362534323
-        }
-      }
-    },
-    "independently": {
-      "independently": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671362691277
-        }
-      }
-    },
-    "afterward": {
-      "afterward": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671362693925
-        }
-      }
-    },
-    "goals": {
-      "goals": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1671365397675
-        }
-      }
-    },
-    "Non-linear": {
-      "Non-linear": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671365087177
-        }
-      }
-    },
-    "interacting": {
-      "interacting": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671368087423
-        }
-      }
-    },
-    "substitution\\": {
-      "substitution\\": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671390271164
-        }
-      }
-    },
-    "unsatisfied": {
-      "unsatisfied": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671391598270
-        }
-      }
-    },
-    "satisfied": {
-      "satisfied": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671391651555
-        }
-      }
-    },
-    "which": {
-      "which": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671391673281
-        }
-      }
-    },
-    "precondition": {
-      "precondition": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671396522698
-        }
-      }
-    },
-    "refinement": {
-      "refinement": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671407701337
-        }
-      }
-    },
-    "between": {
-      "between": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671408943063
-        }
-      }
-    },
-    "already": {
-      "already": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671557764082
-        }
-      }
-    },
-    "cross-threatenization": {
-      "cross-threatenization": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671409149100
-        }
-      }
-    },
-    "separation": {
-      "separation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671409242882
-        }
-      }
-    },
-    "Sussman": {
-      "Sussman": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671411814834
-        }
-      }
-    },
-    "Anomaly": {
-      "Anomaly": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671409532054
-        }
-      }
-    },
-    "Hierarchical": {
-      "Hierarchical": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671464364456
-        }
-      }
-    },
-    "Macro": {
-      "Macro": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671466629094
-        }
-      }
-    },
     "constraint": {
       "constraint": {
         "currentFile": {
@@ -407,187 +103,11 @@
         }
       }
     },
-    "attempt": {
-      "attempt": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671539510105
-        }
-      }
-    },
-    "constraints": {
-      "constraints": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1671552680706
-        }
-      }
-    },
-    "Satisfaction": {
-      "Satisfaction": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671553060464
-        }
-      }
-    },
-    "PROPAGATION": {
-      "PROPAGATION": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671554617336
-        }
-      }
-    },
-    "ALGORITHMS": {
-      "ALGORITHMS": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671555872581
-        }
-      }
-    },
-    "Checking___": {
-      "Checking___": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671555955265
-        }
-      }
-    },
-    "approaches": {
-      "approaches": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671559440224
-        }
-      }
-    },
-    "HEURISTICS": {
-      "HEURISTICS": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671623714470
-        }
-      }
-    },
-    "CONSISTENCY": {
-      "CONSISTENCY": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671637737592
-        }
-      }
-    },
-    "arc-consistent": {
-      "arc-consistent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671638920926
-        }
-      }
-    },
     "reasoning": {
       "reasoning": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1673695964968
-        }
-      }
-    },
-    "Logical": {
-      "Logical": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672429529265
-        }
-      }
-    },
-    "\\rightarrow": {
-      "\\rightarrow": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672429751193
-        }
-      }
-    },
-    "categories": {
-      "categories": {
-        "currentFile": {
-          "count": 7,
-          "lastUpdated": 1672445956576
-        }
-      }
-    },
-    "hierchachilly": {
-      "hierchachilly": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672444611914
-        }
-      }
-    },
-    "ontologies": {
-      "ontologies": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672444670317
-        }
-      }
-    },
-    "disjointed": {
-      "disjointed": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672446516703
-        }
-      }
-    },
-    "BunchOf": {
-      "BunchOf": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672450343169
-        }
-      }
-    },
-    "weight": {
-      "weight": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672450494768
-        }
-      }
-    },
-    "boring": {
-      "boring": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672451221476
-        }
-      }
-    },
-    "butter": {
-      "butter": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672451513900
-        }
-      }
-    },
-    "applied•": {
-      "applied•": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672451549473
-        }
-      }
-    },
-    "states": {
-      "states": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672454067851
+          "count": 4,
+          "lastUpdated": 1675162872512
         }
       }
     },
@@ -1018,8 +538,8 @@
     "Prolog": {
       "Prolog": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1673458620461
+          "count": 4,
+          "lastUpdated": 1675162884954
         }
       }
     },
@@ -1298,8 +818,8 @@
     "Facts": {
       "Facts": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673698668447
+          "count": 2,
+          "lastUpdated": 1675176961086
         }
       }
     },
@@ -1428,6 +948,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1673739784226
+        }
+      }
+    },
+    "Backward": {
+      "Backward": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675162877219
         }
       }
     }

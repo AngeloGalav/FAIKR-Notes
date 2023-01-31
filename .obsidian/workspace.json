@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/3. Reasoning over time.md",
+                "file": "Module2/Digests/14. Prolog Metapredicates.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8fbed46319c607dd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/probability_of_worlds.png"
               }
             }
           },
@@ -60,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"EVENT CALCULUS\"",
+                "query": "\"event calculus\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1cee198ee5b1457d",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/3. Reasoning over time.md",
+                "file": "Module2/Digests/14. Prolog Metapredicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/3. Reasoning over time.md",
+                "file": "Module2/Digests/14. Prolog Metapredicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/3. Reasoning over time.md"
+                "file": "Module2/Digests/14. Prolog Metapredicates.md"
               }
             }
           },
@@ -169,15 +180,15 @@
   },
   "active": "6fd264fec914daa4",
   "lastOpenFiles": [
-    "Module2/Digests/2. Ontologies.md",
-    "Module2/Digests/1. FOL - First Order Logic.md",
-    "Module2/Digests/3. Reasoning over time.md",
-    "Module2/Digests/18. CEP.md",
-    "Module2/ExamsSolutions/2020-07-07.md",
-    "Module2/Digests/14. Prolog Metapredicates.md",
     "Module2/Digests/15. Prolog Meta-interpreters.md",
+    "Module2/Digests/3. Reasoning over time.md",
+    "Module2/Digests/17. Forward reasoning.md",
+    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
+    "Module2/Digests/6. Description Logics.md",
+    "Module2/Digests/5. Semantic Networks.md",
+    "Module2/Digests/4. Knowledge and Beliefs.md",
     "Module2/Digests/16. Probabilistic Logic Programming.md",
-    "Module2/Digests/13. Prolog.md",
-    "Module2/Digests/17. Forward reasoning.md"
+    "images/probability_of_worlds.png",
+    "Module2/Digests/18. CEP.md"
   ]
 }
