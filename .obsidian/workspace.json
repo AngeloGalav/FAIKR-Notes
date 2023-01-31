@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d02860a4a3b962ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module1/How to prepare this exam.md",
+                "file": "Module2/Digests/3. Reasoning over time.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
+                "file": "Module2/Digests/13. Prolog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Conformance checking\"",
+                "query": "\"EVENT CALCULUS\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
+                "file": "Module2/Digests/3. Reasoning over time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md",
+                "file": "Module2/Digests/3. Reasoning over time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Digests/15. Prolog Meta-interpreters.md"
+                "file": "Module2/Digests/3. Reasoning over time.md"
               }
             }
           },
@@ -180,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f79e4a11b62e4d4",
+  "active": "6fd264fec914daa4",
   "lastOpenFiles": [
-    "Module2/Digests/14. Prolog Metapredicates.md",
-    "Module2/Digests/12. Business Process Mining.md",
-    "Module2/Digests/11. Languages properties for BPM.md",
-    "Module2/Digests/10. Procedural BPM Languages.md",
-    "Module2/Digests/9. Business Process Management.md",
-    "Module2/Digests/8. Semantic Web And Knowledge Graph.md",
-    "Module2/Digests/5. Semantic Networks.md",
-    "Module2/Digests/3. Reasoning over time.md",
     "Module2/Digests/2. Ontologies.md",
-    "Module2/Digests/1. FOL - First Order Logic.md"
+    "Module2/Digests/1. FOL - First Order Logic.md",
+    "Module2/Digests/3. Reasoning over time.md",
+    "Module2/Digests/18. CEP.md",
+    "Module2/ExamsSolutions/2020-07-07.md",
+    "Module2/Digests/14. Prolog Metapredicates.md",
+    "Module2/Digests/15. Prolog Meta-interpreters.md",
+    "Module2/Digests/16. Probabilistic Logic Programming.md",
+    "Module2/Digests/13. Prolog.md",
+    "Module2/Digests/17. Forward reasoning.md"
   ]
 }
