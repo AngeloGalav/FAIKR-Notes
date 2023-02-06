@@ -47,27 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "operators": {
-      "operators": {
-        "currentFile": {
-          "count": 10,
-          "lastUpdated": 1672675117583
-        }
-      }
-    },
     "algorithm": {
       "algorithm": {
         "currentFile": {
           "count": 27,
           "lastUpdated": 1673695973750
-        }
-      }
-    },
-    "example": {
-      "example": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672687905027
         }
       }
     },
@@ -82,16 +66,8 @@
     "Essentially": {
       "Essentially": {
         "currentFile": {
-          "count": 8,
-          "lastUpdated": 1673739817713
-        }
-      }
-    },
-    "calculus": {
-      "calculus": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1672662068744
+          "count": 10,
+          "lastUpdated": 1675688345525
         }
       }
     },
@@ -111,203 +87,11 @@
         }
       }
     },
-    "situation": {
-      "situation": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672660393661
-        }
-      }
-    },
-    "Successor_state_axioms": {
-      "Successor_state_axioms": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672660408031
-        }
-      }
-    },
-    "problems": {
-      "problems": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672660675942
-        }
-      }
-    },
-    "action…": {
-      "action…": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672660855387
-        }
-      }
-    },
-    "Calculus": {
-      "Calculus": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672660885559
-        }
-      }
-    },
-    "weaknesses": {
-      "weaknesses": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672662179594
-        }
-      }
-    },
-    "Propositional": {
-      "Propositional": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672673590517
-        }
-      }
-    },
-    "attitudes": {
-      "attitudes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672673592714
-        }
-      }
-    },
-    "Logics": {
-      "Logics": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672674052090
-        }
-      }
-    },
-    "logics": {
-      "logics": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672763898145
-        }
-      }
-    },
-    "semantic": {
-      "semantic": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672688829078
-        }
-      }
-    },
-    "networks": {
-      "networks": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672688831645
-        }
-      }
-    },
-    "per-categories": {
-      "per-categories": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672689631835
-        }
-      }
-    },
-    "meaning": {
-      "meaning": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672689690257
-        }
-      }
-    },
-    "Sentences": {
-      "Sentences": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672701493089
-        }
-      }
-    },
-    "\\subseteq": {
-      "\\subseteq": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672701778017
-        }
-      }
-    },
-    "Logic": {
-      "Logic": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672702344095
-        }
-      }
-    },
     "properties": {
       "properties": {
         "currentFile": {
           "count": 4,
           "lastUpdated": 1673739385872
-        }
-      }
-    },
-    "hasChild": {
-      "hasChild": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672744928271
-        }
-      }
-    },
-    "classes": {
-      "classes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672747462873
-        }
-      }
-    },
-    "Restrictions": {
-      "Restrictions": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672747656873
-        }
-      }
-    },
-    "Subsumption": {
-      "Subsumption": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672761430381
-        }
-      }
-    },
-    "Rules": {
-      "Rules": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672763690035
-        }
-      }
-    },
-    "structured": {
-      "structured": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672787617428
-        }
-      }
-    },
-    "automatically": {
-      "automatically": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672787854112
         }
       }
     },
@@ -618,8 +402,8 @@
     "operator": {
       "operator": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673464040020
+          "count": 2,
+          "lastUpdated": 1675637394835
         }
       }
     },
@@ -762,8 +546,8 @@
     "complexity": {
       "complexity": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673696094499
+          "count": 2,
+          "lastUpdated": 1675711893775
         }
       }
     },
@@ -866,16 +650,16 @@
     "conditions": {
       "conditions": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673715031010
+          "count": 2,
+          "lastUpdated": 1675712145882
         }
       }
     },
     "represent": {
       "represent": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673719630797
+          "count": 2,
+          "lastUpdated": 1675637404754
         }
       }
     },
@@ -956,6 +740,262 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1675162877219
+        }
+      }
+    },
+    "capital": {
+      "capital": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675524388039
+        }
+      }
+    },
+    "probability": {
+      "probability": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1675678256390
+        }
+      }
+    },
+    "distribution": {
+      "distribution": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1675700137187
+        }
+      }
+    },
+    "Distribution": {
+      "Distribution": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675613234435
+        }
+      }
+    },
+    "random": {
+      "random": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675613277857
+        }
+      }
+    },
+    "variable": {
+      "variable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675613280135
+        }
+      }
+    },
+    "DEFINITION": {
+      "DEFINITION": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675615449554
+        }
+      }
+    },
+    "independence": {
+      "independence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675623159918
+        }
+      }
+    },
+    "DEFINTION": {
+      "DEFINTION": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675624059761
+        }
+      }
+    },
+    "guarantees": {
+      "guarantees": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675626540924
+        }
+      }
+    },
+    "networks": {
+      "networks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675639073677
+        }
+      }
+    },
+    "Density_": {
+      "Density_": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675639880250
+        }
+      }
+    },
+    "enumeration": {
+      "enumeration": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675642562509
+        }
+      }
+    },
+    "inference": {
+      "inference": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1675701115119
+        }
+      }
+    },
+    "Approximation": {
+      "Approximation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675678705459
+        }
+      }
+    },
+    "algorithms": {
+      "algorithms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675678919920
+        }
+      }
+    },
+    "network": {
+      "network": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1675683509487
+        }
+      }
+    },
+    "sampling": {
+      "sampling": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675701337012
+        }
+      }
+    },
+    "essentially": {
+      "essentially": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675683462545
+        }
+      }
+    },
+    "evidence": {
+      "evidence": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675683542642
+        }
+      }
+    },
+    "Analysis": {
+      "Analysis": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675687858222
+        }
+      }
+    },
+    "likelihood": {
+      "likelihood": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675687860488
+        }
+      }
+    },
+    "weighted": {
+      "weighted": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675688032318
+        }
+      }
+    },
+    "generates": {
+      "generates": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675688152230
+        }
+      }
+    },
+    "Sprinkler": {
+      "Sprinkler": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675700443233
+        }
+      }
+    },
+    "WetGrass": {
+      "WetGrass": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675700482309
+        }
+      }
+    },
+    "Markov": {
+      "Markov": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675699936626
+        }
+      }
+    },
+    "stationary": {
+      "stationary": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675700135953
+        }
+      }
+    },
+    "proabilities": {
+      "proabilities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675701135506
+        }
+      }
+    },
+    "ontology": {
+      "ontology": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675706735522
+        }
+      }
+    },
+    "SLDNF": {
+      "SLDNF": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675709334415
+        }
+      }
+    },
+    "intra-elements": {
+      "intra-elements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675711146011
         }
       }
     }

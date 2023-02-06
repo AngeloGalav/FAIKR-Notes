@@ -4,6 +4,8 @@
   "enabledCssSnippets": [
     "realistic-highlight",
     "checkbox",
-    "test"
+    "test",
+    "img-grids-floats",
+    "colors"
   ]
 }
