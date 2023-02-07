@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2/Notes/1. FOL - First Order Logic.md",
+                "file": "Module2/Notes/3. Reasoning over time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796ac8154dd5de90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2/Notes/13. Prolog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"CUT\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2/Notes/1. FOL - First Order Logic.md",
+                "file": "Module2/Notes/13. Prolog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2/Notes/1. FOL - First Order Logic.md",
+                "file": "Module2/Notes/13. Prolog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2/Notes/1. FOL - First Order Logic.md"
+                "file": "Module2/Notes/13. Prolog.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7889bc7c63c4a6b",
+  "active": "796ac8154dd5de90",
   "lastOpenFiles": [
-    "Module2/Notes/5. Semantic Networks.md",
-    "Module2/Digests/Untitled.md",
-    "Module2/Notes/1. FOL - First Order Logic.md",
     "Module2/Notes/3. Reasoning over time.md",
-    "Module2/Notes/2. Ontologies.md",
-    "Module2/Notes/7. Protege.md",
-    "Module2/Notes/13. Prolog.md",
-    "Module2/Notes/17. Forward reasoning.md",
     "Module2/Notes/16. Probabilistic Logic Programming.md",
-    "Module2/Notes/15. Prolog Meta-interpreters.md"
+    "Module2/Notes/17. Forward reasoning.md",
+    "Module2/Notes/18. CEP.md",
+    "Module2/Notes/15. Prolog Meta-interpreters.md",
+    "Module2/Notes/14. Prolog Metapredicates.md",
+    "Module2/Notes/13. Prolog.md",
+    "Module2/Notes/12. Business Process Mining.md",
+    "Module2/Notes/11. Languages properties for BPM.md",
+    "Module2/Notes/10. Procedural BPM Languages.md"
   ]
 }

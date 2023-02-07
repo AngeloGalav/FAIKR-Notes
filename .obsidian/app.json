@@ -26,6 +26,8 @@
     "hws",
     "Sussman",
     "Booleans",
-    "resolvent"
+    "resolvent",
+    "backtrackings",
+    "Disjointness"
   ]
 }

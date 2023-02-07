@@ -90,8 +90,8 @@
     "properties": {
       "properties": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1673739385872
+          "count": 5,
+          "lastUpdated": 1675732409257
         }
       }
     },
@@ -658,8 +658,8 @@
     "represent": {
       "represent": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1675637404754
+          "count": 3,
+          "lastUpdated": 1675732272494
         }
       }
     },
@@ -996,6 +996,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1675711146011
+        }
+      }
+    },
+    "ontologies": {
+      "ontologies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675732125066
+        }
+      }
+    },
+    "categories": {
+      "categories": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675732405160
+        }
+      }
+    },
+    "concepts": {
+      "concepts": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675732350497
+        }
+      }
+    },
+    "Disjoint": {
+      "Disjoint": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675732769524
+        }
+      }
+    },
+    "ExhaustiveDecomposition": {
+      "ExhaustiveDecomposition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675732776053
         }
       }
     }
